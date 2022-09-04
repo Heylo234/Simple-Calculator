@@ -1,7 +1,7 @@
 # Simple-Calculator
 A simple Calculator I decided I wanted to make.
 # How-To-Use
-To do the following you will have to create a virtual environment. To do this, I recommend Pycharms as all projects start with one preinstalled but other softwares such as VScode and Sublime Text have one as well.
+To do the following you will have to create a virtual environment. To do this, I recommend Pycharms as all projects start with one preinstalled but other softwares such as VScode and Sublime Text can work but need some preperations.
 
 Step 1:
 Open the file in a Code reader (VS code for example) then copy it ( or run it in the reader itself) over to a Python running software (Python 3.10 or Pycharms) and run it in there.
